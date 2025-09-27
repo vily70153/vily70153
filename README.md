@@ -30,7 +30,7 @@ Mostly learn everything on my own. Always open to communication and new acquaint
 
 ## Skills & Technologies
 
-rust,haskell,js,ts,linux,nix,mysql,docker,react,c,git,vim,arduino
+![](https://skillicons.dev/icons?i=rust,haskell,js,ts,linux,nix,mysql,docker,react,c,git,vim,arduino&perline=8)
 
 ## Top Projects
 
